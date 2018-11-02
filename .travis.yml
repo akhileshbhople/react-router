@@ -1,6 +1,5 @@
 os: 
   - linux-ppc64le
-  - linux
 sudo: false
 language: node_js
 node_js:
